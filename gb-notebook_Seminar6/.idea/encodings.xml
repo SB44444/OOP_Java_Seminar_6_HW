@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/controller/UserController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/model/User.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/model/dao/Operation.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/model/dao/impl/FileOperation.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/model/repository/GBRepository.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/model/repository/impl/UserRepository.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/util/Commands.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/util/DBConnector.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/view/UserView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/view/mapper/Mapper.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/gb-notebook_S5/src/notebook/view/mapper/impl/UserMapper.java" charset="windows-1251" />
+  </component>
+</project>
